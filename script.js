@@ -1,4 +1,4 @@
-const url = 'BMplus_katalog_2024_blok_EN.pdf';
+const url = 'BMplus_katalog_EN.pdf';
 
 pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.12.313/pdf.worker.min.js';
 
